@@ -13,7 +13,10 @@ I'm a full stack web developer who enjoys taking on challenges in the field of w
 *   🚀  I'm currently working on [Microservices](http://github.com/RickITKock/microservice-setup)
 *   🧠  I'm learning Web & mobile frontend design
 *   🤝  I'm open to collaborating on Fintech or eCommerce projects
-*   ⚡  In the Netherlands, I may be a medior developer, but in Spain, I'm a senior developer### Skills 
+*   ⚡  In the Netherlands, I may be a medior developer, but in Spain, I'm a senior developer
+
+### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
