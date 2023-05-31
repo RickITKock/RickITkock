@@ -11,7 +11,7 @@ I'm a full stack web developer who enjoys taking on challenges in the field of w
 *   🌍  I'm based in Netherlands
 *   ✉️  You can contact me at [rkock127@gmail.com](mailto:rkock127@gmail.com)
 *   🚀  I'm currently working on [Microservices](http://github.com/RickITKock/microservice-setup)
-*   🧠  I'm learning Web & mobile frontend design
+*   🧠  I'm learning Web & mobile frontend design best practices
 *   🤝  I'm open to collaborating on Fintech or eCommerce projects
 *   ⚡  In the Netherlands, I may be a medior developer, but in Spain, I'm a senior developer
 
