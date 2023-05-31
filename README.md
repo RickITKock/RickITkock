@@ -7,7 +7,7 @@ Full Stack Web-Developer
 I'm a full stack web developer who enjoys taking on challenges in the field of web-development. Currently, I'm busy developing a microservice architecture solution.
 
 *   🌍  I'm based in Netherlands
-*   ✉️  You can contact me at [rkock127@gmail.com](mailto:rkock127@gmail.com)
+*   ✉️  You can contact me at [rit.kock@gmail.com](mailto:rit.kock@gmail.com)
 *   🚀  I'm currently working on [Microservices](http://github.com/RickITKock/microservice-setup)
 *   🧠  I'm learning Web & mobile frontend design best practices
 *   🤝  I'm open to collaborating on Fintech or eCommerce projects
