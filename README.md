@@ -46,3 +46,8 @@ I'm a full stack web developer who enjoys taking on challenges in the field of w
 <a href="https://www.github.com/RickITKock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/rickitkock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
+
+### Working Examples
+<a href="https://svelte-sass-git-main-rickitkock.vercel.app/home" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="32" height="32" />Natours - A Sass project</a>
+</p>
+
