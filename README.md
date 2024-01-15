@@ -48,7 +48,7 @@ I'm a full stack web developer who enjoys taking on challenges in the field of w
 </p>
 
 ### Working Examples
-<a href="https://svelte-sass-git-main-rickitkock.vercel.app/home" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="32" height="32" />Natours - A Sass project</a>
-</p>
-<a href="https://trivia-app-springboot-536f780b1e64.herokuapp.com/questions" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" />Trivia App - A Spring boot project</a>
-</p>
+<a href="https://svelte-sass-git-main-rickitkock.vercel.app/home" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="32" height="32" />&nbsp; Natours - A Sass project</a><br />
+<a href="https://trivia-app-springboot-536f780b1e64.herokuapp.com/questions" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" />&nbsp; Trivia App - A Spring boot project</a><br />
+<a href="https://next-dashboard-mu-nine.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" height="32" />&nbsp;ByteBlaze - A Nextjs Dashboard</a>
+
