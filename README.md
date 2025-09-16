@@ -4,7 +4,7 @@ Hi 👋 My name is Rick Kock
 Full Stack Web-Developer
 ------------------------
 
-I'm a full stack web developer who enjoys taking on challenges in the field of web-development. Currently, I'm busy developing a microservice architecture solution.
+I'm a full stack web developer who enjoys taking on challenges in the field of web-development. Currently, I'm busy developing blazingly fast Nextjs applications.
 
 *   🌍  I'm based in Netherlands
 *   ✉️  You can contact me at [rit.kock@gmail.com](mailto:rit.kock@gmail.com)
@@ -51,4 +51,4 @@ I'm a full stack web developer who enjoys taking on challenges in the field of w
 <a href="https://svelte-sass-git-main-rickitkock.vercel.app/home" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="32" height="32" />&nbsp; Natours - A Sass project</a><br />
 <a href="https://github.com/RickITKock/trivia-app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" />&nbsp; Trivia App - A Spring boot project (Repo)</a><br />
 <a href="https://next-dashboard-mu-nine.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" height="32" />&nbsp;ByteBlaze - A Nextjs Dashboard</a>
-
+<a href="https://nextjs-commerce-omega-pearl.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" height="32" />&nbsp;ByteBlaze - A Nextjs e-commerce site with admin dashboard</a>
