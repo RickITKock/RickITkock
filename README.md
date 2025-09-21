@@ -53,5 +53,7 @@ I'm a full stack web developer who enjoys taking on challenges in the field of w
 <a href="https://next-dashboard-mu-nine.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" height="32" />&nbsp;ByteBlaze - A Nextjs Dashboard</a>
 <br />
 <a href="https://nextjs-commerce-omega-pearl.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" height="32" />&nbsp;E-commerce template - A Nextjs e-commerce site with admin dashboard</a>
+<br />
+<a href="https://nextjs-mvp-starter.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" height="32" />&nbsp;MVP starter template - A Nextjs mvp starter template for testing product ideas</a>
 
-Note: if you wish to test the e-commerce site's cart functions, you have to signup and login as user first.
+Note: if you want to test the e-commerce site's cart functions, you have to signup and login as user first.
